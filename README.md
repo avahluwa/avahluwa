@@ -20,24 +20,24 @@ Here are some ideas to get you started:
 
 # Hi there!!!
 
-### On GitHub I am:
+### **On GitHub I am:**
  - Utilizing remote repositories to collaborate with others on projects.
  - Leveraging assistance from others in the *Leap Internal Program* to get insight on information that I may not understand and applying that to GitHub.
  - Writing, testing, and troubleshooting code that I have been troubled with.
 
-### I enjoy:
+### **I enjoy:**
  - Learning and challenging myself on new material.
  - Playing videogames (mainly FPS)
  - Working on and driving performance cars.
 
-### Professional background
+### **Professional background**
  - **DC Role:** *Senior Datacenter Deployment Technician*
  - I have been learning the *Datacenter Project Manager* role for about a year.
   - I had a brief summer lesson with coding fundamentals in school.
 
  ---
 
-### Connect With Me!
+### **Connect With Me!**
 ---
  **Email:** aahluwal96@gmail.com
 
