@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<<<<<<< HEAD
 
 
 # Hi there!!!
@@ -36,5 +35,3 @@ Here are some ideas to get you started:
 ### Professional background
 
 ### Help
-=======
->>>>>>> c2c985c361e46e1b9d844f639f6f15d980a0bff0
