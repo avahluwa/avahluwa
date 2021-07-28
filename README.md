@@ -33,13 +33,14 @@ Here are some ideas to get you started:
 ### Professional background
  - **DC Role:** *Senior Datacenter Deployment Technician*
  - I have been learning the *Datacenter Project Manager* role for about a year.
+  - I had a brief summer lesson with coding fundamentals in school.
 
  ---
 
 ### Connect With Me!
 ---
  **Email:** aahluwal96@gmail.com
- <p>[My LinkedIn] (https://www.linkedin.com/in/avi-ahluwalia-76a7b9212/)
-</p>
+
+ [My *LinkedIn*](https://www.linkedin.com/in/avi-ahluwalia-76a7b9212/)
 
 
