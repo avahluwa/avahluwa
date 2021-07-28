@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 
 <!-- My first GitHub project! 😄 -->
-=======
-### Hi there 👋
->>>>>>> c2c985c361e46e1b9d844f639f6f15d980a0bff0
 
 <!--
 **avahluwa/avahluwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Tree image](./img/github_tree.png)
 
 # Hi there!!!
 
